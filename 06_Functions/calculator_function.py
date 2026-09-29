@@ -12,3 +12,12 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+
+
+num1 = 20
+num2 = 5
+
+print("Addition:", add(num1, num2))
+print("Subtraction:", subtract(num1, num2))
+print("Multiplication:", multiply(num1, num2))
+print("Division:", divide(num1, num2))
